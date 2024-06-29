@@ -1,20 +1,25 @@
 
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)]
 
-### Hi, I'm Isha
+<h1 align="center"> Hi👋 I'm Isha</h1>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 
 🏫 Software Engineer sharing my journey and learnings in tech.<br/>
 <br/>
 📫 How to reach me: ishar810256@gmail.com <br/>
 <br/>
-⚡ Fun fact: Curiosity and constant learning makes me who <b>I AM.<br/>
+⚡ Fun fact: Curiosity and constant learning makes me who I AM.<br/>
 <br/>
 🌱 I’m currently learning DSA in JAVA.
 <br/>
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true)
 <br/>
 
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_isha.139_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isha-rani-89352324a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ir709004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Isha95349228) 
+<a href="https://www.leetcode.com/isha139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isha139" height="30" width="40" /></a>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
