@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+### Hi, I'm Isha
 
 🏫 Software Engineer sharing my journey and learnings in tech.<br/>
 <br/>
