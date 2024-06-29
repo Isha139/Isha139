@@ -1,5 +1,5 @@
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+<!--![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)-->
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=45&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Profile!;Hi%2C+I'm+Isha!" align="middle" alt="Hi, I'm Isha! Welcome to My Profile! animated typed out">
 
 <img  src="assets/borderseperator.gif">
