@@ -29,15 +29,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### :fire: My Stats :
+# 📊 GitHub Stats:
 
-<div id="stats" style="display:flex;flex-direction:row;" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Isha139&theme=vision-friendly-dark&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Isha139&layout=compact&theme=vision-friendly-dark"/>
-  </div>
- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&layout=compact&theme=vision-friendly-dark"/>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Isha139&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
