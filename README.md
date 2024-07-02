@@ -13,7 +13,7 @@
 <br/>
 ⚡ Fun fact: Curiosity and constant learning makes me who I AM.<br/>
 <br/>
-🌱 I’m currently learning DSA in JAVA.
+🌱 I’m currently learning DSA in JAVA and beginning my python journey.
 <br/>
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true)
 <br/>
