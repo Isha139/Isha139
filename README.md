@@ -15,8 +15,6 @@
 <br/>
 🌱 I’m currently learning DSA in JAVA and beginning my python journey.
 <br/>
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true)
-<br/>
 
 
 ## 🌐 Socials
@@ -31,6 +29,7 @@
 
 # 📊 GitHub Stats:
 
+![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isha139&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
