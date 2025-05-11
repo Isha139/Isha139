@@ -27,9 +27,14 @@
 
 # 📊 GitHub Stats:
 
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true&include_all_commits=false&count_private=true&since=2024-05-11)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Isha139&theme=dark&hide_border=false&include_all_commits=false&count_private=true&since=2024-05-11)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&since=2024-05-11)
+<!-- Total Stats -->
+![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+
+<!-- Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isha139&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&theme=dark&hide_border=false&layout=compact&langs_count=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
