@@ -28,8 +28,8 @@
 # 📊 GitHub Stats:
 
 <!-- Total Stats -->
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-
+![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800
+) 
 <!-- Contribution Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isha139&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
