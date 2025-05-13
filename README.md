@@ -36,7 +36,7 @@
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&show_icons=true&theme=tokyonight)
  
 <!-- Contribution Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Isha139&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Isha139&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&layout=compact&theme=tokyonight)
