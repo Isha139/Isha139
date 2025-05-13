@@ -33,13 +33,14 @@
 # 📊 GitHub Stats:
 
 <!-- Total Stats -->
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&theme=dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800
-) 
+![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isha139&show_icons=true&theme=tokyonight)
+ 
 <!-- Contribution Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isha139&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Isha139&theme=tokyonight)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&theme=dark&hide_border=false&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha139&layout=compact&theme=tokyonight)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
